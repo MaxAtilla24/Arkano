@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ComplaintsETL", "ComplaintsETL\ComplaintsETL.dtproj", "{658A21FC-94EA-4E9C-B33B-C4E3EFAD3DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658A21FC-94EA-4E9C-B33B-C4E3EFAD3DA5}.Development|Default.ActiveCfg = Development
+		{658A21FC-94EA-4E9C-B33B-C4E3EFAD3DA5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C05DFDD-2D1D-460B-90F0-50C4740BFB51}
+	EndGlobalSection
+EndGlobal
